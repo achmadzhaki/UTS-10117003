@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- 7-Juni-2021. Achmad Zhaki - 10117003 - IF8 -->
+
+    <item
+        android:id="@+id/menuList"
+        android:checkable="false"
+        android:orderInCategory="101"
+        android:title="@string/menu_note"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/menuInfo"
+        android:checkable="false"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:orderInCategory="101"
+        android:title="@string/menu_info"
+        app:showAsAction="ifRoom|withText" />
+
+
+</menu>
