@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_data.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\layout\\row_data.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_container_onboarding.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\layout\\item_container_onboarding.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_info.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\layout\\activity_info.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\xml_backup_descriptor.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\xml\\backup_descriptor.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_dialog.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\layout\\layout_dialog.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\drawable\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\drawable_onboarding_indicator_inactive.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\drawable\\onboarding_indicator_inactive.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_info_24.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\drawable\\ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_note.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\layout\\fragment_note.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_first.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_sticky_note_2_24.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\drawable\\ic_baseline_sticky_note_2_24.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gmail.png.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\drawable\\gmail.png"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_note1.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\drawable\\ic_note1.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\drawable\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_second.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_note2.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\drawable\\ic_note2.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_gmail.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\drawable\\ic_gmail.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\drawable_foto.jpeg.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\drawable\\foto.jpeg"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_edit.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\menu\\menu_edit.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\layout\\activity_edit.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_note.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\layout\\content_note.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_note3.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\drawable\\ic_note3.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_contact_phone_24.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\drawable\\ic_baseline_contact_phone_24.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\drawable_onboard_indicator_active.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\drawable\\onboard_indicator_active.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_note.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\layout\\activity_note.xml"
+    },
+    {
+        "merged": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    }
+]

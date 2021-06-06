@@ -1,0 +1,58 @@
+com/example/dailynote10117003/MainActivity.java
+ com.example.dailynote10117003.MainActivity
+ com.example.dailynote10117003.MainActivity$1
+ com.example.dailynote10117003.MainActivity$2
+com/example/dailynote10117003/Model/DataModel.java
+ com.example.dailynote10117003.Model.DataModel
+com/example/dailynote10117003/NoteActivity.java
+ com.example.dailynote10117003.NoteActivity
+ com.example.dailynote10117003.NoteActivity$1
+ com.example.dailynote10117003.NoteActivity$2
+com/example/dailynote10117003/CRUD/CreateDialog.java
+ com.example.dailynote10117003.CRUD.CreateDialog
+ com.example.dailynote10117003.CRUD.CreateDialog$1
+ com.example.dailynote10117003.CRUD.CreateDialog$2
+com/example/dailynote10117003/Presenter/DataPresenter.java
+ com.example.dailynote10117003.Presenter.DataPresenter
+com/example/dailynote10117003/info/InfoActivity.java
+ com.example.dailynote10117003.info.InfoActivity
+ com.example.dailynote10117003.info.InfoActivity$1
+ com.example.dailynote10117003.info.InfoActivity$2
+com/example/dailynote10117003/info/Onboardingitem.java
+ com.example.dailynote10117003.info.Onboardingitem
+com/example/dailynote10117003/info/OnboardingAdapter.java
+ com.example.dailynote10117003.info.OnboardingAdapter
+ com.example.dailynote10117003.info.OnboardingAdapter$OnboardingViewHolder
+com/example/dailynote10117003/Model/IData.java
+ com.example.dailynote10117003.Model.IData
+com/example/dailynote10117003/ui/home/HomeFragment.java
+ com.example.dailynote10117003.ui.home.HomeFragment
+com/example/dailynote10117003/CRUD/SecondFragment.java
+ com.example.dailynote10117003.CRUD.SecondFragment
+ com.example.dailynote10117003.CRUD.SecondFragment$1
+com/example/dailynote10117003/Presenter/IDataPresenter.java
+ com.example.dailynote10117003.Presenter.IDataPresenter
+com/example/dailynote10117003/CRUD/FirstFragment.java
+ com.example.dailynote10117003.CRUD.FirstFragment
+ com.example.dailynote10117003.CRUD.FirstFragment$1
+com/example/dailynote10117003/ui/profile/ProfileFragment.java
+ com.example.dailynote10117003.ui.profile.ProfileFragment
+ com.example.dailynote10117003.ui.profile.ProfileFragment$1
+com/example/dailynote10117003/BD/DBHelper.java
+ com.example.dailynote10117003.BD.DBHelper
+com/example/dailynote10117003/BuildConfig.java
+ com.example.dailynote10117003.BuildConfig
+com/example/dailynote10117003/ui/note/NoteFragment.java
+ com.example.dailynote10117003.ui.note.NoteFragment
+ com.example.dailynote10117003.ui.note.NoteFragment$1
+com/example/dailynote10117003/CRUD/CustomCursorAdapter.java
+ com.example.dailynote10117003.CRUD.CustomCursorAdapter
+ com.example.dailynote10117003.CRUD.CustomCursorAdapter$MyHolder
+com/example/dailynote10117003/IView/IDatatView.java
+ com.example.dailynote10117003.IView.IDatatView
+com/example/dailynote10117003/EditActivity.java
+ com.example.dailynote10117003.EditActivity
+ com.example.dailynote10117003.EditActivity$1
+ com.example.dailynote10117003.EditActivity$2
+com/example/dailynote10117003/IView/IEditDataView.java
+ com.example.dailynote10117003.IView.IEditDataView

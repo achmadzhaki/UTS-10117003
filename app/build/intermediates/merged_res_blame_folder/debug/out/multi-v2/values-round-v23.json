@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-round-v23\\values-round-v23.xml",
+            "map": [
+                {
+                    "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\values-round\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "58",
+                        "endOffsets": "71"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                },
+                {
+                    "source": "D:\\Kampus\\AndroidStudio\\DailyNote10117003\\app\\src\\main\\res\\values-round\\styles.xml",
+                    "from": {
+                        "startLines": "2,14,9,16",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "53,524,373,616",
+                        "endLines": "7,14,12,16",
+                        "endColumns": "12,90,12,80",
+                        "endOffsets": "367,610,518,692"
+                    },
+                    "to": {
+                        "startLines": "3,9,10,14",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "114,433,523,673",
+                        "endLines": "8,9,13,14",
+                        "endColumns": "12,89,12,79",
+                        "endOffsets": "428,518,668,748"
+                    }
+                }
+            ]
+        }
+    ]
+}
